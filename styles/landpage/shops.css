@@ -52,9 +52,27 @@
     height: auto;
     overflow: hidden;
     line-height: 2;
+    position: relative;
+}
+.fx_display {
+    position: absolute;
+    padding: 1px 16px;
+    left: 13px;
+    bottom: 142px;
+    color: #fff;
+    border-radius: 20px;
+}
+.fx_display_sales {
+    position: absolute;
+    padding: 1px 16px;
+    left: 13px;
+    top: 15px;
+    color: #fff;
+    border-radius: 20px;
 }
 .shops_content_product img {
     width: inherit;
+    border-radius: 15px;
 }
 .shops_content_product p {
     opacity: 0.5;
