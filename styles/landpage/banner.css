@@ -1,6 +1,7 @@
 .banner {
     width: 100%;
     height: max(100dvh, 890px);
+    min-height: 890px;
     overflow: hidden;
     padding: 0;
     background: linear-gradient(180deg, rgba(var(--primary-fx-color) 0.5) 0%, rgba(var(--secondary-fx-color) 0.9) 100%);
