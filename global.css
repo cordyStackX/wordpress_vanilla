@@ -23,6 +23,7 @@
     display: flex;
     flex-flow: column;
     margin: 0 auto;
+    padding: 0;
 }
 body {
     overflow-x: hidden;

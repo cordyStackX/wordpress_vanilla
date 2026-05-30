@@ -4,11 +4,12 @@
     background-color: var(--foreground-black);
     color: var(--foreground-white);
     position: relative;
+    padding: 0;
 }
 .footer_wrapper {
     width: min(100dvw, var(--max-width));
     height: auto;
-    margin: 0 auto;
+    margin: 0;
     display: flex;
     justify-content: start;
     align-items: center;
